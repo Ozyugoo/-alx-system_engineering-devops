@@ -1,2 +1,2 @@
 #!/bin/bash
-cdPATH/action
+echo PATH:/action
